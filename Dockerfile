@@ -1,4 +1,4 @@
-FROM arm32v6/python:3.5.3-alpine3.9
+FROM arm32v6/python:3.5-alpine3.9
 
 
 # All source files will go into /src.
